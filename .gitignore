@@ -1,0 +1,7 @@
+/lib/*
+/.idea/.gitignore
+/.idea/libraries/groovy_5_0_0_alpha_1.xml
+/.idea/jenkins-shared-library-example.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
