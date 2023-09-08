@@ -6,7 +6,7 @@ Testing of the common library for Jenkinsfile
 1. In Jenkins, go to Manage Jenkins &rarr; Configure System. Under _Global Pipeline Libraries_, add a library with the following settings:
 
     - Name: `jenkins-shared-library-example`
-    - Default version: Specify a Git reference (branch or commit SHA), e.g. `master`
+    - Default version: Specify a Git reference (branch or commit SHA), e.g. `main`
     - Retrieval method: _Modern SCM_
     - Select the _Git_ type
     - Project repository: `https://github.com/Avatarek78/jenkins-shared-library-example.git`
