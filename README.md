@@ -18,6 +18,6 @@ Testing of the common library for Jenkinsfile
     @Library('jenkins-shared-library-example') _
 
     stage('Demo') {   
-      echo "jenkinsUtils.convertMillisToString(10000) = " jenkinsUtils.convertMillisToString(10000);
+      echo "jenkinsUtils.convertMillisToString(10000) = " + jenkinsUtils.convertMillisToString(10000);
     }
     ```
